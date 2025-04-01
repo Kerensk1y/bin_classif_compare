@@ -1,2 +1,2 @@
-# bin_classif_compare
-training a binary classifier using "Moons" dataset as an example to compare different classification methods
+# Бинарная классификация
+Обучение бинарного классификатора на примере датасета moons для сравнения разных методов классификации
